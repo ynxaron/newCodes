@@ -1,0 +1,6 @@
+This is a file creater from pythonThis is another line here
+This is another line here
+This is another line here
+This is another line here
+This is another line here
+This is another line here
